@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignnalRFirst", "SignnalRFirst.csproj", "{A874A9F2-8B2B-4FB3-A12C-83715AFD150A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignnalRFirst", "SignnalRFirst.csproj", "{A874A9F2-8B2B-4FB3-A12C-83715AFD150A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscritorioSR", "..\EscritoriaSR\EscritorioSR.csproj", "{14477A16-6A28-494A-B78D-7A812FCCA60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRescritorio", "..\WindowsFormsApp1\SRescritorio.csproj", "{C55422E9-6CE8-4062-BAFF-3504329EFFFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{A874A9F2-8B2B-4FB3-A12C-83715AFD150A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A874A9F2-8B2B-4FB3-A12C-83715AFD150A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A874A9F2-8B2B-4FB3-A12C-83715AFD150A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14477A16-6A28-494A-B78D-7A812FCCA60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14477A16-6A28-494A-B78D-7A812FCCA60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14477A16-6A28-494A-B78D-7A812FCCA60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14477A16-6A28-494A-B78D-7A812FCCA60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55422E9-6CE8-4062-BAFF-3504329EFFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55422E9-6CE8-4062-BAFF-3504329EFFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55422E9-6CE8-4062-BAFF-3504329EFFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55422E9-6CE8-4062-BAFF-3504329EFFFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
